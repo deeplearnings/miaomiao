@@ -11,8 +11,8 @@ const routes = [
   cinemaRouter,
   mineRouter,
   {
-    path: '/*',
-    redirect: '/movie'
+    path: "/*",
+    redirect: "/movie"
   }
 ];
 
